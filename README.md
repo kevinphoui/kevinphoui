@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kevinphoui
+- 👋 Hi, I’m Kevin Phouisangiem
 - 👀 I’m interested in a software engineer intern position for the summer of 2022!
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate with others on any sort of project!
