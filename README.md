@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kevin Phouisangiem
-- 👀 I’m interested in a software engineer intern position for the summer of 2022!
+- 👀 I’m interested in a software engineer intern position for summer 2022!
 - 🌱 I’m currently learning Java
 <!-- 💞️ I’m looking to collaborate with others on any sort of project!-->
 - 📫 How to reach me: kevinpho970@gmail.com
